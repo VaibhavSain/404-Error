@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.links { 
+    position: relative;
+    left: 40%;
+    margin-top: 20px;
+    font-size: 28px;
+    color: chartreuse;
+    text-indent: 10px;
+    font-family: system-ui, 'Segoe UI',  'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.link a {
+    margin-top: 50px;
+}
